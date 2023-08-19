@@ -31,6 +31,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dimateos12/Dimateos12/output/snake.svg" alt="Snake animation" />
-
 ###
